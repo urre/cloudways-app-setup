@@ -1,6 +1,6 @@
-# Create an application on Cloudways via their API
+# Create an application on [Cloudways](https://cloudways.com/) via [API](https://developers.cloudways.com/)
 
-A simple nodejs script using the axios http client.
+A simple Node.js script using the [axios](https://github.com/axios/axios) http client.
 
 Create `env` from `.env-example`
 
