@@ -1,0 +1,20 @@
+{
+	"name": "cloudways-app-setup",
+	"version": "1.0.0",
+	"description": "Create an application on Cloudways via their API",
+	"main": "index.js",
+	"keywords": [
+		"cloudways"
+	],
+	"author": "Urban Sanden",
+	"license": "MIT",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"devDependencies": {
+		"axios": "^0.18.0",
+		"dotenv": "^6.2.0",
+		"prettyjson": "^1.2.1",
+		"qs": "^6.6.0"
+	}
+}
